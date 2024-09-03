@@ -26,9 +26,8 @@
 }
 
 .aboutImage {
+  object-fit: contain;
   width: 35%;
-  margin-top: 20px;
-  padding: 10px;
 }
 
 .aboutItems {

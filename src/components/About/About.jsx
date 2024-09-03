@@ -19,7 +19,7 @@ export const About = () => {
               src={getImageUrl("about/FrontendDevelopment.png")}
               alt="UI Icon"
             />
-            <div className={styles.aboutItemTex}>
+            <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
                 I'm a frontend developer with experience in building responsive
@@ -32,7 +32,7 @@ export const About = () => {
               src={getImageUrl("about/GameDevelopment.png")}
               alt="Controller Icon"
             />
-            <div className={styles.aboutItemTex}>
+            <div className={styles.aboutItemText}>
               <h3>Game Developer</h3>
               <p>
                 I have experience developing Games in different Engines and
