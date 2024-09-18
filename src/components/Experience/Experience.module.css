@@ -101,6 +101,11 @@
   margin-left: 17px;
 }
 
+.historyImageItem {
+  padding-top: 10px;
+  list-style-type: none;
+}
+
 @media screen and (max-width: 830px) {
   .content {
     flex-direction: column;
