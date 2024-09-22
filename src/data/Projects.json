@@ -8,11 +8,11 @@
     "source": null
   },
   {
-    "title": "MES Information UI",
-    "imageSrc": "projects/MES.PNG",
+    "title": "Wave Shader",
+    "imageSrc": "projects/WaveShader.gif",
     "description": "A Tool ",
-    "skills": ["React", "HTML", "CSS", "Node"],
-    "demo": "https://www.google.de/?hl=de",
-    "source": "https://www.google.de/?hl=de"
+    "skills": ["Unity", "C#", "ShaderLab"],
+    "demo": "",
+    "source": "https://github.com/Riggi0815/GPUBeleg"
   }
 ]
