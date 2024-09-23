@@ -19,6 +19,11 @@
   font-weight: 700;
 }
 
+.role {
+  font-size: 18px;
+  font-weight: 500;
+}
+
 .description {
   margin-top: 6px;
   font-size: 25px;

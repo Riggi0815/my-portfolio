@@ -3,7 +3,7 @@ import { getImageUrl } from "../../utils";
 import styles from "./ProjectCard.module.css";
 
 export const ProjectCard = ({
-  project: { title, imageSrc, description, skills, demo, source },
+  project: { title, role, imageSrc, description, skills, demo, source },
 }) => {
   const isGif = imageSrc.toLowerCase().endsWith(".gif");
 
@@ -24,6 +24,7 @@ export const ProjectCard = ({
         />
       )}
       <h3 className={styles.title}>{title}</h3>
+      <p className={styles.role}>{role}</p>
       <p className={styles.description}>{description}</p>
       <ul className={styles.skills}>
         {skills.map((skill, id) => (

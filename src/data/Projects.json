@@ -1,18 +1,29 @@
 [
   {
-    "title": "MES Information UI",
+    "title": "MES Information UI (NDA)",
+    "role": "Frontend Developer",
     "imageSrc": "projects/MES.PNG",
-    "description": "A Tool ",
+    "description": "A tool for visualizing data from JSON files provided by SAP. University project developed as part of a collaboration.",
     "skills": ["React", "HTML", "CSS", "Node"],
     "demo": null,
     "source": null
   },
   {
     "title": "Wave Shader",
+    "role": "Game/Shader Developer",
     "imageSrc": "projects/WaveShader.gif",
-    "description": "A Tool ",
+    "description": "The shader was created as part of a coursework project. The project was scripted without using ShaderGraph.",
     "skills": ["Unity", "C#", "ShaderLab"],
     "demo": "",
     "source": "https://github.com/Riggi0815/GPUBeleg"
+  },
+  {
+    "title": "Small Zombie Game",
+    "role": "Game Developer",
+    "imageSrc": "projects/ZombieGame.png",
+    "description": "The game was developed for a university assignment. The Goal for this Assignment was to Create a Small Playable Game.",
+    "skills": ["Unity", "C#"],
+    "demo": "",
+    "source": "https://github.com/Riggi0815/GameProgramming"
   }
 ]
