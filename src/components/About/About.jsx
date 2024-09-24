@@ -20,7 +20,7 @@ export const About = () => {
               alt="UI Icon"
             />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h>Frontend Developer</h>
               <p>
                 I'm a frontend developer with experience in building responsive
                 and optimzed sites.
@@ -33,10 +33,22 @@ export const About = () => {
               alt="Controller Icon"
             />
             <div className={styles.aboutItemText}>
-              <h3>Game Developer</h3>
+              <h>Game Developer</h>
               <p>
                 I have experience developing Games in different Engines and
                 Languages.
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img
+              src={getImageUrl("about/GameDevelopment.png")}
+              alt="Controller Icon"
+            />
+            <div className={styles.aboutItemText}>
+              <h>3D Artist</h>
+              <p>
+                I have a little bit of Experience with 3D Modeling in Blender.
               </p>
             </div>
           </li>

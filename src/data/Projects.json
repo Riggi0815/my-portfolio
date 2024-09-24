@@ -21,7 +21,25 @@
     "title": "Small Zombie Game",
     "role": "Game Developer",
     "imageSrc": "projects/ZombieGame.png",
-    "description": "The game was developed for a university assignment. The Goal for this Assignment was to Create a Small Playable Game.",
+    "description": "The game was developed for a university assignment. I was trying new Stuff, like procedural map generation, so graphics were not that important for me.",
+    "skills": ["Unity", "C#"],
+    "demo": "",
+    "source": "https://github.com/Riggi0815/GameProgramming"
+  },
+  {
+    "title": "Portfolio Page",
+    "role": "Game/Shader Developer",
+    "imageSrc": "projects/WaveShader.gif",
+    "description": "My Portfolio Page. I developed this page to showcase my skills and for possible future job applications",
+    "skills": ["React", "HTML", "CSS", "Node", "Vite"],
+    "demo": "",
+    "source": "https://github.com/Riggi0815/GPUBeleg"
+  },
+  {
+    "title": "Small Zombie Game",
+    "role": "Game Developer",
+    "imageSrc": "projects/ZombieGame.png",
+    "description": "The game was developed for a university assignment. I was trying new Stuff, like procedural map generation, so graphics were not that important for me.",
     "skills": ["Unity", "C#"],
     "demo": "",
     "source": "https://github.com/Riggi0815/GameProgramming"

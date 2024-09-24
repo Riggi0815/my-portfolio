@@ -27,7 +27,7 @@
 
 .aboutImage {
   object-fit: contain;
-  width: 35%;
+  width: 20%;
 }
 
 .aboutItems {
@@ -52,6 +52,16 @@
   background-size: 0 100%;
   background-repeat: no-repeat;
   transition: 0.4s;
+}
+
+.aboutItemText h {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.aboutItemText p {
+  font-size: 40px;
+  font-weight: 400;
 }
 
 .aboutItem:hover {
