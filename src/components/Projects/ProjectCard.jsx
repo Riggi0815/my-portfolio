@@ -23,7 +23,6 @@ export const ProjectCard = ({
           alt={`Image of ${title}`}
         />
       )}
-      //TODO: Images in Projects. 2DPortfolio Game, Blender Assets.
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.role}>{role}</p>
       <p className={styles.description}>{description}</p>
