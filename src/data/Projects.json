@@ -1,14 +1,5 @@
 [
   {
-    "title": "MES Information UI (NDA)",
-    "role": "Frontend Developer",
-    "imageSrc": "projects/MES.PNG",
-    "description": "A tool for visualizing data from JSON files provided by SAP. University project developed as part of a collaboration.",
-    "skills": ["React", "HTML", "CSS", "Node"],
-    "demo": null,
-    "source": null
-  },
-  {
     "title": "Wave Shader",
     "role": "Game/Shader Developer",
     "imageSrc": "projects/WaveShader.gif",
@@ -16,6 +7,33 @@
     "skills": ["Unity", "C#", "ShaderLab"],
     "demo": "",
     "source": "https://github.com/Riggi0815/GPUBeleg"
+  },
+  {
+    "title": "Echolight",
+    "role": "Project Manager / Developer",
+    "imageSrc": "projects/Echolight.png",
+    "description": "The game was developed and published by the degree program. I was part of the project manager on the programming team and I was a programmer.",
+    "skills": ["Unity", "C#"],
+    "demo": "https://store.steampowered.com/app/2679520/Echolight/",
+    "source": ""
+  },
+  {
+    "title": "(Currently) 2D Platformer",
+    "role": "Game Developer",
+    "imageSrc": "projects/2DPlatformer.PNG",
+    "description": "My first try to develop and publish a complete game on my own. Platformer where a Player moves by thorwing a weapon. Goal is to go as far as possilbe.",
+    "skills": ["Unity", "C#"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "(Currently) Bananas for Scale",
+    "role": "Game Developer",
+    "imageSrc": "projects/BananasForScale.PNG",
+    "description": "Bananas for Scale is a hybrid card game that we are currently developing in a small group. I'm working on the App and the Game Mechanics.",
+    "skills": ["Unity", "C#"],
+    "demo": "",
+    "source": ""
   },
   {
     "title": "Small Zombie Game",
@@ -27,6 +45,15 @@
     "source": "https://github.com/Riggi0815/GameProgramming"
   },
   {
+    "title": "MES Information UI (NDA)",
+    "role": "Frontend Developer",
+    "imageSrc": "projects/MES.PNG",
+    "description": "A tool for visualizing data from JSON files provided by SAP. University project developed as part of a collaboration.",
+    "skills": ["React", "HTML", "CSS", "Node"],
+    "demo": null,
+    "source": null
+  },
+  {
     "title": "Portfolio Page",
     "role": "Creater",
     "imageSrc": "projects/Portfolio.PNG",
@@ -34,14 +61,5 @@
     "skills": ["React", "HTML", "CSS", "Node", "Vite"],
     "demo": "",
     "source": "https://github.com/Riggi0815/my-portfolio"
-  },
-  {
-    "title": "(Currently) 2D Platformer",
-    "role": "Game Developer",
-    "imageSrc": "projects/2DPlatformer.PNG",
-    "description": "My first try to develop and publish a complete game.",
-    "skills": ["Unity", "C#"],
-    "demo": "",
-    "source": ""
   }
 ]

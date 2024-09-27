@@ -1,6 +1,7 @@
 @import "../../vars.css";
 
 .container {
+  height: 625px;
   display: flex;
   flex-direction: column;
   border-radius: 10px;
@@ -12,6 +13,7 @@
 }
 
 .image {
+  border-radius: 10px;
   margin-bottom: 26px;
 }
 
@@ -51,7 +53,7 @@
 
 .links {
   width: 100%;
-  margin-top: 26px;
+  margin-top: 20px;
   display: flex;
   justify-content: space-around;
 }
