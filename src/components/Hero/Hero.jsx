@@ -2,6 +2,7 @@ import React from "react";
 
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
+import resume from "../../../assets/hero/Lebenslauf.pdf";
 
 export const Hero = () => {
   return (
@@ -19,7 +20,7 @@ export const Hero = () => {
             </a>
           </li>
           <li className={styles.link}>
-            <a href="" className={styles.Btn}>
+            <a href={resume} download="Lebenslauf.pdf" className={styles.Btn}>
               Resumé
             </a>
           </li>
